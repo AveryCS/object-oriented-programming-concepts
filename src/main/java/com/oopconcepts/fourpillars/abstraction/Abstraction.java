@@ -1,5 +1,9 @@
 package com.oopconcepts.fourpillars.abstraction;
 
+import com.oopconcepts.fourpillars.Jellyfish;
+import com.oopconcepts.fourpillars.SeaCreature;
+import com.oopconcepts.fourpillars.Shark;
+
 public class Abstraction {
 
     /*
@@ -20,4 +24,18 @@ Some examples of abstraction are:
 
     *
     * */
+
+    public static void main(String[] args) {
+        SeaCreature jayla = new Jellyfish("Jayla");
+        jayla.eats();
+        jayla.attack();
+        jayla.camouflage();
+
+        System.out.println("__________________________________________________________________________");
+
+        SeaCreature sharla = new Shark("Sharla");
+        sharla.eats();
+        sharla.attack();
+        sharla.camouflage();
+    }
 }
