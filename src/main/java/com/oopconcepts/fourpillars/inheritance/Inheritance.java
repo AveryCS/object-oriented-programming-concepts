@@ -13,7 +13,7 @@ Inheritance is when a subclass extends a superclass or when a class or interface
 Additionally, when you implement an interface, a class or interface is inheriting the method signatures of the abstract methods.
 
 EXAMPLE
-Let’s take a look at the  Hammerhead class. The only class field is a boolean hasHammerShapedHead, and t is set equal to true because this will be true for all hammerheads. We’ve also created a public getter in order to retrieve this class field.
+Let’s take a look at the  Hammerhead class. The only class field is a boolean hasHammerShapedHead, and is set equal to true because this will be true for all hammerheads. We’ve also created a public getter in order to retrieve this class field.
 
 Now, let’s take a look at the example below. An instance of Hammerhead hammond is created.
 
@@ -23,7 +23,7 @@ When we call .camouflage() , .attack(), and .eats() on the instance of Hammond t
 
 Why is that? This is because of inheritance. The Hammerhead class extends the Shark class. The Shark class implemented the SeaCreature interface.
 
-Because the Hammerhead class is a subclass of Shark, it now inherits all of the methods that come along with Shark. This is the reason why we did not have to re-write all of the methods in the hammerhead class.
+Because the Hammerhead class is a subclass of Shark, it now inherits all of the methods that come along with Shark. This is the reason why we did not have to re-write all of the methods in the hammerhead class. As an additional note, we can also treat Hammond as a SeaCreature, a Shark, or a HammerHead. See polymorphism package for a more detailed explanation of this concept.
 
 EXAMPLE IN THE JAVA LIBRARY
 Comparator Interface
