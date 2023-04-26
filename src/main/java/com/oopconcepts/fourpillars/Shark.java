@@ -8,6 +8,7 @@ public class Shark implements SeaCreature {
     public Shark(String name){
         this.name = name;
     }
+    public Shark(){};
 
 
     @Override
