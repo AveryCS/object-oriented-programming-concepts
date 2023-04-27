@@ -31,14 +31,12 @@ List Interface
 
 * */
 
-
 public class Inheritance {
     public static void main(String[] args) {
 
         Hammerhead hammond = new Hammerhead("Hammond");
 
         System.out.println("Do I have a hammerhead? Answer: "+ hammond.getHasHammerShapedHead());
-
          hammond.camouflage();
          hammond.attack();
          hammond.eats();
