@@ -25,4 +25,8 @@ public class Jellyfish implements SeaCreature {
         System.out.println("Hi, I'm " + name + ". Since I'm a jellyfish, I have great camouflage skills.");
         return true;
     }
+    @Override
+    public String name(){
+       return name;
+    }
 }

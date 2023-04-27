@@ -28,5 +28,10 @@ public class Shark implements SeaCreature {
         return false;
     }
 
+    @Override
+    public String name(){
+        return name;
+    }
+
 
 }
