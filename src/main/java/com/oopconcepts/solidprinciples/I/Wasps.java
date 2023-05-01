@@ -1,6 +1,8 @@
-package com.oopconcepts.solidprinciples;
+package com.oopconcepts.solidprinciples.I;
 
-public class Wasps implements Insect{
+import com.oopconcepts.solidprinciples.I.Insect;
+
+public class Wasps implements Insect {
     @Override
     public void sting() {
         System.out.println("I'm a wasp and I sting");

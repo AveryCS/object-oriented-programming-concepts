@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples;
+package com.oopconcepts.solidprinciples.S;
 
 public class Product {
     private String name;

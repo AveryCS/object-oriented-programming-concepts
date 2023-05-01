@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples;
+package com.oopconcepts.solidprinciples.I;
 
 public interface Insect {
     public void sting();

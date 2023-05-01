@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples;
+package com.oopconcepts.solidprinciples.O;
 
 public class ReportPrinter {
     private String type;
