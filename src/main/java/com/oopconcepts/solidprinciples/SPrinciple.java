@@ -20,5 +20,5 @@ It would be better to separate the two methods into separate classes, in keeping
 *
 *
 * */
-public class SingleResponsibility {
+public class SPrinciple {
 }
