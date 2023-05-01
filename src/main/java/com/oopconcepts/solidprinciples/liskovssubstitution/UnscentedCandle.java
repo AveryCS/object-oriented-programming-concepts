@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples.L;
+package com.oopconcepts.solidprinciples.liskovssubstitution;
 
 public class UnscentedCandle extends Candle{
     @Override

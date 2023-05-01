@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples.D;
+package com.oopconcepts.solidprinciples.dependencyinversion;
 /*
 * The “D” in SOLID stands for the Dependency Inversion Principle. This means that high level classes should not depend on low level classes; they should both depend on abstractions.
 

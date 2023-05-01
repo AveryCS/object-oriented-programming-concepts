@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples.L;
+package com.oopconcepts.solidprinciples.liskovssubstitution;
 /*
 * The “L” in SOLID stands for Liskov’s substitution principle. This means that if we substitute a superclass with an object of its subclass, the program should not break.(https://reflectoring.io/lsp-explained/).
 

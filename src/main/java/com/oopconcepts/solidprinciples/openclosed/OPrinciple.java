@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples.O;
+package com.oopconcepts.solidprinciples.openclosed;
 /*
 
 According to ChatGPT, the term “not open for extension” refers to code that is not designed to accommodate changes or additions to its functionality.

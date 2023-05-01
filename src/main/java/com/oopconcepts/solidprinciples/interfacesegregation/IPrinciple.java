@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples.I;
+package com.oopconcepts.solidprinciples.interfacesegregation;
 
 /*
 * The “I” in SOLID stands for the interface segregation principle. This principle states that an object should not have to depend on an interface whose methods it doesn’t use.

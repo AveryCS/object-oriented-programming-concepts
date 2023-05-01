@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples.S;
+package com.oopconcepts.solidprinciples.singleresponsibility;
 
 public class Product {
     private String name;

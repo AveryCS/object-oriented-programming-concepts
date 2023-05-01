@@ -1,4 +1,4 @@
-package com.oopconcepts.solidprinciples.D;
+package com.oopconcepts.solidprinciples.dependencyinversion;
 
 public class Flower {
     String type;

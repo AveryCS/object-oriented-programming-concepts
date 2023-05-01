@@ -1,6 +1,4 @@
-package com.oopconcepts.solidprinciples.I;
-
-import com.oopconcepts.solidprinciples.I.Insect;
+package com.oopconcepts.solidprinciples.interfacesegregation;
 
 public class Butterfly implements Insect {
     @Override
