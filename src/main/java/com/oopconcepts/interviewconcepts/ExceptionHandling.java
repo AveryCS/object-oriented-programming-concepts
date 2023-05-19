@@ -3,7 +3,7 @@ package com.oopconcepts.interviewconcepts;
 /*
 * Exception handling in software development allows developers to handle errors that may occur within a program.
 
-The exception handling is comprised of 3 code blocks:
+Exception handling is comprised of 3 code blocks:
 
 Try: the code you’d like to be executed and that could possibly throw an exception
 Catch: the code that handles the exception if it is thrown

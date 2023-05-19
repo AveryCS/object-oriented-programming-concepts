@@ -11,10 +11,14 @@ package com.oopconcepts.interviewconcepts;
 5) DELETE: deletes the resource
 6) HEAD: retrieves the headers of a resource, but not the body
 
-**Idempotent: means it can be performed multiple times with the same result
+*
+
 
 Key interview questions:
 What are the common HTTP request methods?
+*
+* * What does idempotent mean?
+* Idempotent: means an operation can be performed multiple times with the same result
 
 Which of the HTTP methods are idempotent?
 -GET, PUT, and DELETE are all idempotent
