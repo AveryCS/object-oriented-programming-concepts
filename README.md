@@ -17,6 +17,10 @@ Here are the sources I used when creating this repo. If any text was copy/pasted
 
 [The Liskov Substitution Principle Explained]( https://reflectoring.io/lsp-explained/)
 
+[Inheritance vs. Composition]( [https://reflectoring.io/lsp-explained/](https://www.w3resource.com/java-tutorial/inheritance-composition-relationship.php))
+
+
+
 [ChatGPT](  https://chat.openai.com/)
 
 
