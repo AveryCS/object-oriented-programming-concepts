@@ -13,7 +13,7 @@ This repo includes concepts that come up often in conceptual technical interview
 # Helpful resources
 Here are the sources I used when creating this repo. If any text was copy/pasted, I reference that within the repo.
 
-[What is CI/CD?](https://www.youtube.com/@BackToBackSWE](https://about.gitlab.com/topics/ci-cd/))
+[What is CI/CD?](https://about.gitlab.com/topics/ci-cd/))
 
 [The Liskov Substitution Principle Explained]( https://reflectoring.io/lsp-explained/)
 
