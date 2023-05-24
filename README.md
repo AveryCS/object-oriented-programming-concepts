@@ -10,7 +10,6 @@ This repo includes concepts that come up often in conceptual technical interview
 #### HTTP request methods
 #### Much more!
 
-
 # Helpful resources
 Here are the sources I used when creating this repo. If any text was copy/pasted, I reference that within the repo.
 
