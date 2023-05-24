@@ -12,7 +12,7 @@ Definition: hiding complexity
 Layman’s terms:
 When you order a pizza, you want to be able to place your order, pay for your purchase, and have it delivered to you.
 
-On the other hand, when you order a pizza, there’s a million things you don’t want to see: the cook making the dough, the tomatoes being picked off the vine and having them turned into tomato sauce, the pizza box being made in the factory, the list goes on.
+On the other hand, when you order a pizza, there’s a million things you don’t want to see: the cook making the dough, the tomatoes being picked off the vine and having them turned into tomato sauce, the pizza box being made in the factory. The list goes on.
 
 All you know is that you want a quick and easy transaction so that you can go eat.
 
